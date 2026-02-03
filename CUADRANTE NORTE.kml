@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CUADRANTE NORTE</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	<StyleMap id="poly-A52714-2000-76">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-A52714-2000-76-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-A52714-2000-76-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="poly-A52714-2000-76-highlight">
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c1427a5</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-A52714-2000-76-normal">
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4c1427a5</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>34°</name>
+		<description><![CDATA[34°    <br>       <br>   FID   9    <br>   JURISDICCI   34°    <br>   AREA   7814711,957    <br>   PERIMETER   15939,417]]></description>
+		<styleUrl>#poly-A52714-2000-76</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-65.37401300000001,-24.165764,0 -65.376623,-24.163436,0 -65.381117,-24.160524,0 -65.385648,-24.156896,0 -65.40865100000001,-24.168566,0 -65.43384500000001,-24.180851,0 -65.457037,-24.180102,0 -65.45808100000001,-24.186227,0 -65.44075599999999,-24.191881,0 -65.432199,-24.190348,0 -65.426689,-24.18479,0 -65.40635,-24.176634,0 -65.391756,-24.177732,0 -65.385406,-24.176088,0 -65.37401300000001,-24.165764,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>54°</name>
+		<description><![CDATA[54°    <br>       <br>   FID   8    <br>   JURISDICCI   54°    <br>   AREA   12600468,26    <br>   PERIMETER   26765,559]]></description>
+		<styleUrl>#poly-A52714-2000-76</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-65.38179599999999,-24.160493,0 -65.376102,-24.15987000000001,0 -65.373096,-24.155793,0 -65.383781,-24.146281,0 -65.392353,-24.134948,0 -65.395798,-24.122835,0 -65.397189,-24.115378,0 -65.401045,-24.110596,0 -65.398853,-24.104444,0 -65.396727,-24.096667,0 -65.423784,-24.101112,0 -65.428827,-24.102063,0 -65.434534,-24.10337,0 -65.439938,-24.105498,0 -65.443635,-24.107469,0 -65.450734,-24.110915,0 -65.453868,-24.117277,0 -65.456097,-24.124305,0 -65.43848800000001,-24.122376,0 -65.434411,-24.125159,0 -65.405951,-24.125362,0 -65.402439,-24.135971,0 -65.396596,-24.14864,0 -65.38632699999999,-24.156865,0 -65.38179599999999,-24.160493,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
