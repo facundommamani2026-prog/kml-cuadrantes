@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CUADRANTE 2 PALPALA</name>
+    <Style id="poly-FBC02D-5000-87-normal">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>572dc0fb</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FBC02D-5000-87-highlight">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>7.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>572dc0fb</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FBC02D-5000-87">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FBC02D-5000-87-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FBC02D-5000-87-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descripción: <br>Descripción: <br>gid: <br>fna: <br>gna: <br>nam: <br>in1: <br>fdc: <br>sag: ]]></description>
+      <styleUrl>#poly-FBC02D-5000-87</styleUrl>
+      <ExtendedData>
+        <Data name="descripción">
+          <value/>
+        </Data>
+        <Data name="Descripción">
+          <value/>
+        </Data>
+        <Data name="gid">
+          <value/>
+        </Data>
+        <Data name="fna">
+          <value/>
+        </Data>
+        <Data name="gna">
+          <value/>
+        </Data>
+        <Data name="nam">
+          <value/>
+        </Data>
+        <Data name="in1">
+          <value/>
+        </Data>
+        <Data name="fdc">
+          <value/>
+        </Data>
+        <Data name="sag">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -65.209989,-24.260212,0
+              -65.210054,-24.261744,0
+              -65.210482,-24.263113,0
+              -65.211084,-24.263935,0
+              -65.213937,-24.266785,0
+              -65.212958,-24.267521,0
+              -65.206479,-24.272533,0
+              -65.199004,-24.278075,0
+              -65.197274,-24.279591,0
+              -65.19679,-24.280208,0
+              -65.195733,-24.279107,0
+              -65.19505,-24.278823,0
+              -65.191094,-24.273516,0
+              -65.190871,-24.271955,0
+              -65.190999,-24.270781,0
+              -65.191081,-24.26956,0
+              -65.190526,-24.268278,0
+              -65.186229,-24.259396,0
+              -65.184323,-24.260501,0
+              -65.176993,-24.246966,0
+              -65.177685,-24.246407,0
+              -65.178474,-24.246223,0
+              -65.179283,-24.246015,0
+              -65.179959,-24.24502,0
+              -65.180742,-24.244645,0
+              -65.182005,-24.243532,0
+              -65.183363,-24.243308,0
+              -65.184398,-24.244947,0
+              -65.185099,-24.244175,0
+              -65.186376,-24.243079,0
+              -65.186991,-24.243624,0
+              -65.188478,-24.243265,0
+              -65.19129,-24.242029,0
+              -65.192201,-24.241671,0
+              -65.193334,-24.241171,0
+              -65.193547,-24.240819,0
+              -65.193403,-24.2397,0
+              -65.195015,-24.240438,0
+              -65.21056,-24.242911,0
+              -65.211685,-24.243588,0
+              -65.213364,-24.244759,0
+              -65.214068,-24.245811,0
+              -65.214454,-24.247234,0
+              -65.214945,-24.249888,0
+              -65.217112,-24.258937,0
+              -65.215402,-24.259363,0
+              -65.214038,-24.259754,0
+              -65.21362,-24.259998,0
+              -65.212671,-24.259709,0
+              -65.210783,-24.260022,0
+              -65.209989,-24.260212,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

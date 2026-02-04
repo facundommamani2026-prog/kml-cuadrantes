@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CUADRANTE 3 SAN JOSE</name>
+    <Style id="poly-E65100-4000-69-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>450051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-E65100-4000-69-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>6</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>450051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-E65100-4000-69">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-E65100-4000-69-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-E65100-4000-69-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Comisaria 51</name>
+      <description><![CDATA[descripción: <br>Descripción: <br>gid: <br>fna: <br>gna: <br>nam: <br>in1: <br>fdc: <br>sag: ]]></description>
+      <styleUrl>#poly-E65100-4000-69</styleUrl>
+      <ExtendedData>
+        <Data name="descripción">
+          <value/>
+        </Data>
+        <Data name="Descripción">
+          <value/>
+        </Data>
+        <Data name="gid">
+          <value/>
+        </Data>
+        <Data name="fna">
+          <value/>
+        </Data>
+        <Data name="gna">
+          <value/>
+        </Data>
+        <Data name="nam">
+          <value/>
+        </Data>
+        <Data name="in1">
+          <value/>
+        </Data>
+        <Data name="fdc">
+          <value/>
+        </Data>
+        <Data name="sag">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -65.226252,-24.279316,0
+              -65.225756,-24.279833,0
+              -65.225357,-24.28037,0
+              -65.224597,-24.279732,0
+              -65.223244,-24.279322,0
+              -65.222498,-24.279374,0
+              -65.221356,-24.279677,0
+              -65.220038,-24.279294,0
+              -65.219098,-24.279114,0
+              -65.21926,-24.281147,0
+              -65.219111,-24.282266,0
+              -65.217233,-24.282537,0
+              -65.215434,-24.282631,0
+              -65.214614,-24.282779,0
+              -65.213441,-24.283122,0
+              -65.212484,-24.282813,0
+              -65.211526,-24.282971,0
+              -65.210365,-24.283398,0
+              -65.209387,-24.283769,0
+              -65.208027,-24.283237,0
+              -65.206529,-24.283799,0
+              -65.204823,-24.284629,0
+              -65.204088,-24.284109,0
+              -65.202059,-24.283974,0
+              -65.201806,-24.283744,0
+              -65.200168,-24.284283,0
+              -65.198579,-24.283241,0
+              -65.198662,-24.281978,0
+              -65.197506,-24.281831,0
+              -65.197084,-24.28137,0
+              -65.197221,-24.280617,0
+              -65.196619,-24.280207,0
+              -65.197274,-24.279591,0
+              -65.198173,-24.278528,0
+              -65.200795,-24.276399,0
+              -65.205105,-24.273036,0
+              -65.209361,-24.270018,0
+              -65.213937,-24.266785,0
+              -65.216829,-24.264515,0
+              -65.227044,-24.255887,0
+              -65.228081,-24.255922,0
+              -65.228755,-24.256532,0
+              -65.228963,-24.257097,0
+              -65.231956,-24.266905,0
+              -65.235175,-24.276841,0
+              -65.232565,-24.275646,0
+              -65.231536,-24.276204,0
+              -65.23049,-24.276475,0
+              -65.229613,-24.276902,0
+              -65.228575,-24.277887,0
+              -65.226771,-24.278839,0
+              -65.226471,-24.27893,0
+              -65.226222,-24.279013,0
+              -65.226252,-24.279316,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
